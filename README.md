@@ -21,14 +21,14 @@ A estrutura deste repositório foi construída com base nos fundamentos de **Arq
 
 | Unidade Curricular | Descrição do Artefato / Foco Prático | Acesso Direto |
 | :--- | :--- | :--- |
-| **01. Eletiva III: Inteligência Artificial** | Análise comparativa entre Árvore de Decisão e K-Means em dados de saúde | [Aceder Pasta](./01-eletiva-inteligencia-artificial/) |
-| **02. Eletiva IV: Gestão da Informação** | Mapeamento do ciclo de vida da informação e PWA da plataforma StarUP | [Aceder Pasta](./02-eletiva-gestao-da-informacao/) |
-| **03. Empreendedorismo e Planos de Negócios** | Estudo de caso sobre modelo de negócio, tração e escala do QuintoAndar | [Aceder Pasta](./03-empreendedorismo-e-planos-de-negocios/) |
-| **04. Governança em TI** | Portfólio Unidade I: caso Tencent Cloud, frameworks COBIT/ITIL e Planner | [Aceder Pasta](./04-governanca-em-ti/) |
+| **01. Eletiva III: Inteligência Artificial** | Análise comparativa entre Árvore de Decisão e K-Means em dados de saúde | [Acessar Pasta](./01-eletiva-inteligencia-artificial/) |
+| **02. Eletiva IV: Gestão da Informação** | Mapeamento do ciclo de vida da informação e PWA da plataforma StarUP | [Acessar Pasta](./02-eletiva-gestao-da-informacao/) |
+| **03. Empreendedorismo e Planos de Negócios** | Estudo de caso sobre modelo de negócio, tração e escala do QuintoAndar | [Acessar Pasta](./03-empreendedorismo-e-planos-de-negocios/) |
+| **04. Governança em TI** | Portfólio Unidade I: caso Tencent Cloud, frameworks COBIT/ITIL e Planner | [Acessar Pasta](./04-governanca-em-ti/) |
 | **05. High Tech Aplicada ao Mercado** | Prática 5: Serverless de IA com Hugging Face Inference API em Colab | [Aceder Pasta](./05-high-tech-aplicada-ao-mercado/) |
-| **06. Tech English - Advanced** | Seminário Avanade: computação em nuvem Microsoft e carta de recomendação | [Aceder Pasta](./06-tech-english-advanced/) |
-| **07. Unidade de Extensão: Full Stack** | Arquitetura backend modular em Django REST, Docker e PostgreSQL (StarUP) | [Aceder Pasta](./07-extensao-full-stack/) |
-| **08. Verificação e Validação de Software** | Suíte de testes automatizados Web UI com Data-Driven Testing no Katalon | [Aceder Pasta](./08-verificacao-e-validacao-de-software/) |
+| **06. Tech English - Advanced** | Seminário Avanade: computação em nuvem Microsoft e carta de recomendação | [Acessar Pasta](./06-tech-english-advanced/) |
+| **07. Unidade de Extensão: Full Stack** | Arquitetura backend modular em Django REST, Docker e PostgreSQL (StarUP) | [Acessar Pasta](./07-extensao-full-stack/) |
+| **08. Verificação e Validação de Software** | Suíte de testes automatizados Web UI com Data-Driven Testing no Katalon | [Acessar Pasta](./08-verificacao-e-validacao-de-software/) |
 
 
 ---
