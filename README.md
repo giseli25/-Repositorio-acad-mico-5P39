@@ -29,7 +29,7 @@ A estrutura deste repositório foi construída com base nos fundamentos de **Arq
 | **06. Tech English - Advanced** | Seminário Avanade: computação em nuvem Microsoft e carta de recomendação | [Aceder Pasta](./06-tech-english-advanced/) |
 | **07. Unidade de Extensão: Full Stack** | Arquitetura backend modular em Django REST, Docker e PostgreSQL (StarUP) | [Aceder Pasta](./07-extensao-full-stack/) |
 | **08. Verificação e Validação de Software** | Suíte de testes automatizados Web UI com Data-Driven Testing no Katalon | [Aceder Pasta](./08-verificacao-e-validacao-de-software/) |
-| **09. Projeto Integrador (PI)** | Documentação centralizada da solução integrada (StarUP) | [Aceder Pasta](./09-projeto-integrador/) |
+
 
 ---
 
