@@ -15,7 +15,7 @@ Alinhar as diretrizes estratégicas de negócio à infraestrutura tecnológica a
 
 ### 📑 [Portfólio Unidade I — Governança Corporativa e Tencent Cloud](./relatorios/portfolio-unidade-1-governanca.pdf)
 * **Formato:** Relatório Técnico e Estudo de Caso (PDF)
-* **Autores:** Giseli Felix e Victor Torres
+* **Autores:** Giseli Felix
 * **Tópicos:** Governança em computação na nuvem pública, framework COBIT aplicado à tomada de decisão e fluxo operacional documentado via Microsoft Planner.
 
 ---
