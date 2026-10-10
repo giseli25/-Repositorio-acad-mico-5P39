@@ -1,4 +1,4 @@
-# 🧪 Verificação e Validação de Software
+# Verificação e Validação de Software
 * **Período Letivo:** 2026.2
 * **Módulo:** 5 (TADS 39 - Faculdade Senac-PE)
 * **Categoria:** Qualidade de Software, Testes Automatizados, DDT e Testes de Carga
